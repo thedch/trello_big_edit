@@ -10,7 +10,7 @@ cssString = ' '+
 	'.window{ '+
 	'	left:0px !important; ' +
 	'	top:0px !important; ' +
-	'	width:100% !important; '+
+	'	width:75% !important; '+
 	'} '+
 	' '+
 	'.window-main-col '+
@@ -24,8 +24,6 @@ cssString = ' '+
 	'.window-wrapper{ '+
 	'	height: 100%; '+
 	'} ';
-
-
 
 insertCSS(cssString);
 // Function to insert CSS
