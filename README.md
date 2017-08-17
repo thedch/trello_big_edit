@@ -21,11 +21,3 @@ To fix this I whipped up a quick chrome extension to make the card edit window f
   *  https://chrome.google.com/webstore/detail/full-screen-card-view-for/iakcnnmjbdoemkjecojadhpinebnkipm
 * Blog with more info:
   *  http://blog.justin.kelly.org.au/trello-big-edit/
-
-### Screenshots
-
-Trello with 'Full screen card view for Trello' extension in Chrome
-![](https://googledrive.com/host/0B3qPjbk9su5uMWhkak9QdjJFOTg/Trello-with.png)
-
-Trello without 'Full screen card view for Trello' extension in Chrome
-![](https://googledrive.com/host/0B3qPjbk9su5uMWhkak9QdjJFOTg/Trello-without.png)
