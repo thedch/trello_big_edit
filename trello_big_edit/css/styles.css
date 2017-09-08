@@ -1,0 +1,19 @@
+.window{
+	left:0px !important; '
+	top:0px !important; '
+	width:90% !important;
+}
+
+.window-main-col
+{
+	width: 80% !important;
+}
+
+.window-main-col .edit textarea.field
+{
+	min-height:492px;
+}
+
+.window-wrapper{
+	height: 100%;
+}
